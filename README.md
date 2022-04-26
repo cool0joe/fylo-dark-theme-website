@@ -53,15 +53,9 @@ The whole of Group 161 participant worked together to bring this project to life
 
 ## Team members
 Majekadegbe Aminat [INTERN-ID] (SH-IT-0002551) -[Team-lead]
-
 Azeezat Aroyehun [INTERN-ID] (SH-IT-0129691)
-
 Afolabi Olajide [INTERN-ID] (SH-IT-0113896)
-
 Ochijeh Franklin [INTERN-ID] (SH-IT-0015665)
-
 Yoseph Negash [INTERN-ID] (SH-IT-0099376)
-
 Oluwakayode Oye [INTERN-ID] (SH-IT-0020652)
-
 Joseph Adeoye [INTERN-ID] (SH-IT-0074525)
